@@ -1,6 +1,6 @@
 # Amsterdam Housing Price Analysis
 
-An exploratory data analysis and machine learning project to predict house prices in Amsterdam and identify undervalued properties.
+Finall pushing this very old (2022) project analyzing Amsterdam housing market to github
 
 ## Overview
 
@@ -32,7 +32,7 @@ The dataset contains ~2,000 Amsterdam property listings with features including:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/amsterdam-housing-analysis.git
+   git clone https://github.com/GaloisTheory/amsterdam-housing-analysis.git
    cd amsterdam-housing-analysis
    ```
 
