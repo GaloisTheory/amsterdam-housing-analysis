@@ -1,6 +1,6 @@
 # Amsterdam Housing Price Analysis
 
-Finall pushing this very old (2022) project analyzing Amsterdam housing market to github
+Finally pushing this very old (2022) project analyzing Amsterdam housing market to github
 
 ## Overview
 
